@@ -1,6 +1,5 @@
 package com.example.recyclage.recyclageBackend.services;
 
-import com.example.recyclage.recyclageBackend.models.Categorie;
 import com.example.recyclage.recyclageBackend.models.DemandeAnnonce;
 import org.springframework.stereotype.Service;
 
